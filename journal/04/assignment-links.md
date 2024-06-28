@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/EllyCasey/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/EllyCasey/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/EllyCasey/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/EllyCasey/<ASSIGNMENT_REPO>)**
+* **[Repo](absent)**
+* **[Repo](https://github.com/EllyCasey/GregslistMvc)**
+* **[Repo](https://github.com/EllyCasey/pokedex)**
+* **[Repo](https://github.com/ThomasWSnider/gifted-partner-lab>)**
